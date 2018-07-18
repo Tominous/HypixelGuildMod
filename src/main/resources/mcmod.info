@@ -1,0 +1,16 @@
+[
+{
+  "modid": "GM",
+  "name": "Guild Mod",
+  "description": "Guild Mod.",
+  "version": "v0.5",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kevqn"],
+  "credits": "Kevqn made this mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
